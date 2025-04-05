@@ -10,7 +10,7 @@ At **Bisgaard Solutions**, I specialize in **web development consultancy** and *
 
 ---
 
-## 👀 We’re interested in:
+## 👀 I am interested in:
 - Building modern, fast, and scalable web applications.
 - Frontend frameworks like React, Next.js, and Vue.
 - Backend technologies such as Node.js, Python (Flask/FastAPI), and SQL databases.
