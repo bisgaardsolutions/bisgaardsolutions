@@ -5,7 +5,7 @@ bisgaardsolutions/bisgaardsolutions is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-## About Us
+## About
 At **Bisgaard Solutions**, I specialize in **web development consultancy** and **related digital services**. I am passionate about helping businesses build robust, scalable, and user-friendly web platforms that drive growth and success.
 
 ---
