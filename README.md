@@ -37,7 +37,7 @@ At **Bisgaard Solutions**, I specialize in **web development consultancy** and *
 
 ## 📫 How to reach me:
 - Email: **sbs@bisgaardsolutions.com**
-- Website: **[www.bisgaardsolutions.com](https://www.bisgaardsolutions.com)** *(coming soon)*
+- Website: **[www.bisgaardsolutions.com](https://www.bisgaardsolutions.com)**
 
 ---
 
